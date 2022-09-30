@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: poppins;
+}
+
+.topo{
+    display: flex;
+}
+
+.topo li{
+    padding: 24px;
+    padding-top: 35.5px;
+    font-size: 21px;
+    display:block;
+}
+
+.topo li:first-child{
+    margin-right: auto;
+}
+
+ul a{
+    padding-top: 35.5px;
+    padding-right: 28px;
+}
+
+.meio_topo{
+    margin-left: 216px;
+}
+div h1{
+    font-size: 47px;
+}
+main img{
+    margin-left: 131px;
+}
+.h2{
+    text-align: center;
+}
+.main{
+    font-size: 27px;
+}
+.p{
+    font-size: 21px;
+}
+div p img{
+    
+}
