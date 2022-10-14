@@ -15,7 +15,7 @@
     padding: 24px;
     padding-top: 35.5px;
     font-size: 21px;
-    display: block;
+    display: flex;
 }
 
 .topo li:first-child {
@@ -25,6 +25,16 @@
 ul a {
     padding-top: 35.5px;
     padding-right: 28px;
+}
+
+.a{
+    text-decoration: none;
+    color: #2203e4;
+    font-size: 21px;
+    border: 1px solid #2203e4;
+    width: 200px;
+    display: flex;
+    align-items: center;
 }
 
 div h1 {
@@ -111,6 +121,9 @@ main div{
     color:#575757;
     padding-bottom: 14px;
 }
+.img{
+
+}
 
 .coluna11{
     margin-left: 131px;
@@ -121,5 +134,13 @@ main div{
 }
 
 .coluna13{
+    padding-left: 20px;
+}
+.teste{
+    display: flex;
+    align-items: center;
+}
 
+.paravoce{
+    background-color: #0062ff;
 }
