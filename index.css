@@ -136,11 +136,34 @@ main div{
 .coluna13{
     padding-left: 20px;
 }
-.teste{
+.autorlinha{
     display: flex;
     align-items: center;
 }
 
 .paravoce{
     background-color: #0062ff;
+    color: white;
 }
+
+.paravoce2{
+    text-align: center;
+    padding-top: 71px;
+    padding-bottom: 64px;
+}
+.paravoce2 h2{
+    font-size: 36px;
+}
+
+
+.estudantes{
+    display: flex;
+    text-align: left;
+    padding-bottom: 46px;
+}
+
+.empresa{
+    display: flex;
+    text-align: left;
+} 
+
