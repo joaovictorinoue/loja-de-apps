@@ -89,6 +89,10 @@ div main {
     line-height: 120%;
 }
 
+
+
+
+
 .j{
     padding-bottom: 100px;
 }
@@ -130,6 +134,10 @@ main div {
     padding-top: 36px;
 }
 
+
+
+
+
 .fundo {
     background-color: #0062ff;
     color: white;
@@ -153,13 +161,9 @@ top: 1243px;
     margin-top: 50px;
 }
 
-
-
 .coluna-texto {
     margin-left: 10px;
 }
-
-
 
 .coluna {
     display: flex;
@@ -188,6 +192,10 @@ top: 1243px;
     text-align: center;
 }
 
+
+
+
+
 .h1{
     text-align: center;
     padding-top: 63px;
@@ -196,4 +204,114 @@ top: 1243px;
 
 .h1-texto{
     text-align: center;
+    padding-bottom: 44px;
+}
+
+.banner-geral{
+    display: flex;
+}
+
+.banner-texto{
+    text-align: center;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    margin-left: 205px;
+}
+
+.banner-imagens{
+    text-align: center;
+    align-items: center;
+    padding-left: 48px;
+    padding-bottom: 119px;
+}
+
+
+
+
+.avaliacao{
+    background-color: #ffbe0b;
+    text-align: center;
+}
+
+.avaliacao-texto{
+    padding-top: 67px;
+    padding-bottom: 42px;
+}
+
+.avaliacao-imagem{
+    padding-bottom: 67px;
+}
+
+
+
+
+.coluna-celular{
+    display: flex;
+    align-items: center;
+    padding-left: 283.36px;
+}
+
+.estrela{
+    display: flex;
+}
+
+.estrela2{
+    padding-right: 17px;
+}
+
+.app{
+    color: #2203e4;
+    font-size: 36px;
+}
+
+.app2{
+    padding-bottom: 16px;
+}
+
+.carrinho{
+    text-decoration: none;
+    background-color: #0062ff;
+    color: white;
+    font-size: 16px;
+    padding: 10px 16px 10px 16px;
+}
+
+.desconto{
+    text-align: center;
+}
+
+.d2{
+    padding-bottom: 28px;
+}
+
+.e-mail{
+    padding-top: 25px;
+    padding-left: 24px;
+    padding-bottom: 26px;
+    padding-right: 270px;
+    background-color: #3a85ff63;
+    text-decoration: none;
+    border-radius: 12px;
+    color: #2203e4;
+}
+
+
+
+
+
+.quero-desconto{
+    display: block;
+    padding-top: 30px;
+}
+
+.botao-quero{
+    padding-top: 10px;
+    padding-left: 176.53px;
+    padding-bottom: 10px;
+    padding-right: 176.53px;
+    background-color: #0062ff;
+    color: #ffffff;
+}
+.mark{
+    padding-right: 250px;
 }
