@@ -7,6 +7,10 @@
     font-family: poppins;
 }
 
+a{
+    text-decoration: none;
+    color: black;
+}
 .topo {
     display: flex;
 }
@@ -28,7 +32,7 @@ div h1 {
 
 .desenvolvimento-app {
     display: inline-block;
-    margin-left: 206px;
+    margin-left: 106px;
     margin-top: 11%;
 }
 
@@ -131,7 +135,7 @@ main div {
 .autorlinha {
     display: flex;
     align-items: center;
-    padding-top: 36px;
+    padding-top: 100px;
 }
 
 
@@ -148,7 +152,7 @@ align-items: center;
 width: 1583px;
 height: 702px;
 left: 1px;
-top: 1243px;
+top: 124px;
 }
 
 .quero {
@@ -313,5 +317,6 @@ top: 1243px;
     color: #ffffff;
 }
 .mark{
-    padding-right: 250px;
+    padding-right: 100px;
+    padding-left: 40px;
 }
