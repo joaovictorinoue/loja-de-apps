@@ -36,8 +36,16 @@ div h1 {
     margin-top: 11%;
 }
 
-.imagens-celular {
-    display: inline-block;
+.celular{
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.celular-img{
+    width: 1300px;
+    padding-left: 900px;
+
 }
 
 div main {
@@ -45,44 +53,15 @@ div main {
     left: 216px;
 }
 
-.shadow {
-    position: absolute;
-    left: 61.88%;
-    right: -4.5%;
-    top: 49%;
-}
-
-.shadow1 {
-    position: absolute;
-    left: 64.63%;
-    right: 17.5%;
-    top: 17.12%;
-}
-
-.iphone13 {
-    position: absolute;
-    left: 61.73%;
-    right: 18.51%;
-    top: 17.01%;
-    bottom: 20.85%;
-}
-
-.mockup {
-    position: absolute;
-    width: 196.22px;
-    height: 420.5px;
-    left: 62.26%;
-    top: 18.11%;
-}
-
 .botao-autor {
-    width: 76px;
+    width: 70px;
     height: 37px;
     padding: 10px, 16px;
     font-size: 16px;
     background-color: #0062ff;
-    color: white;
-    border: none;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-top: 5px;
 }
 
 .botao-demonstracao {
@@ -146,13 +125,12 @@ main div {
     background-color: #0062ff;
     color: white;
     display: flex;
-flex-direction: column;
-justify-content: center;
-align-items: center;
-width: 1583px;
-height: 702px;
-left: 1px;
-top: 124px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 702px;
+    left: 1px;
+    top: 124px;
 }
 
 .quero {
@@ -300,7 +278,14 @@ top: 124px;
 }
 
 
-
+.botao-compre{
+    width: 199px;
+    height: 37px;
+    font-size: 23px;
+    background-color: #00eeff;
+    border: none;
+    text-align: center;
+}
 
 
 .quero-desconto{
